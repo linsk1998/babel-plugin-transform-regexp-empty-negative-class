@@ -1,0 +1,32 @@
+{
+	"name": "babel-plugin-transform-regexp-empty-negative-class",
+	"version": "1.0.0",
+	"description": "/[^]/ → /[\\w\\W]/",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest test.js",
+		"publish:npm": "npm publish --registry=https://registry.npmjs.org"
+	},
+	"keywords": [
+		"babel",
+		"plugin",
+		"regexp",
+		"all",
+		"any",
+		"empty",
+		"negative",
+		"character",
+		"class"
+	],
+	"author": "linsk",
+	"license": "MIT",
+	"devDependencies": {
+		"@babel/core": "^7.26.8",
+		"babel-plugin-tester": "^11.0.4",
+		"jest": "^29.7.0"
+	},
+	"dependencies": {
+		"regjsgen": "^0.8.0",
+		"regjsparser": "^0.12.0"
+	}
+}
