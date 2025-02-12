@@ -48,4 +48,4 @@ const regex = /[\w\W]/g;
 
 ## 贡献
 
-欢迎贡献！如果你发现任何问题或有改进建议，请提交 [issue](href="https://github.com/linsk1998/babel-plugin-transform-regexp-empty-negative-class/issues") 或 [pull request](href="https://github.com/linsk1998/babel-plugin-transform-regexp-empty-negative-class/pulls")。
+欢迎贡献！如果你发现任何问题或有改进建议，请提交 [issue](https://github.com/linsk1998/babel-plugin-transform-regexp-empty-negative-class/issues) 或 [pull request](https://github.com/linsk1998/babel-plugin-transform-regexp-empty-negative-class/pulls)。
