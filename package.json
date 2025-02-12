@@ -1,6 +1,6 @@
 {
 	"name": "babel-plugin-transform-regexp-empty-negative-class",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A Babel plugin to transform empty negative character classes (e.g., /[^]/) in regular expressions to /[\\w\\W]/ for better compatibility with older JavaScript environments.",
 	"main": "index.js",
 	"scripts": {
