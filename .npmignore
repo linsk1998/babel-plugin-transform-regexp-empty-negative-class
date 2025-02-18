@@ -1,5 +1,6 @@
 # 忽略 VSCode 相关文件
 .vscode/
+.editorconfig
 
 # 忽略 IntelliJ IDEA 相关文件
 .idea/
@@ -38,3 +39,6 @@ node_modules/
 dist/
 build/
 coverage/
+
+# 忽略测试脚本
+test.js
